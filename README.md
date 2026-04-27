@@ -45,11 +45,16 @@ I'm Lian from Peru 🇵🇪, a developer in constant growth mode, aiming to beco
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=CozyLian&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=CozyLian&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=CozyLian&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
 
----
-[![](https://komarev.com/ghpvc/?username=CozyLian&icon=0&color=0)](https://visitcount.itsvg.in)
+  <img src="https://github-readme-stats.shion.dev/api?username=CozyLian&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+  <img width="12" />
+  <img src="https://streak-stats.demolab.com/?user=CozyLian&theme=dark&hide_border=false" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=CozyLian&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
