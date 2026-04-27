@@ -1,5 +1,10 @@
+<h1 align="center">👋 Hey there!, I'm Lian</h1>
+<p align="center">
+  Software Developer | Backend & DevOps Enthusiast
+</p>
+
 # About Me:
-👋 Hey there!<br><br>I'm a developer in constant growth mode, aiming to become a solid Backend & DevOps engineer. My favorite language is Java—it’s where I feel most comfortable building logic, designing systems, and solving real problems.<br><br>I’m driven by curiosity and the need to keep improving. I enjoy learning new technologies and understanding how everything connects behind the scenes. So far, I’ve worked with Python, SQL, Angular, Docker, and IoT systems, and I like combining them to create practical, real-world solutions.<br><br>I follow agile methodologies and genuinely enjoy working in teams—collaborating, sharing ideas, and building better solutions together is something I value a lot.<br><br>Outside of tech, I like to keep things balanced:<br><br>🎮 Playing video games<br>🎸 Playing guitar<br>🐶🐱 Spending time with my dogs and cat<br>🚀 Always building. Always learning.Getting closer every day.
+I'm Lian from Peru 🇵🇪, a developer in constant growth mode, aiming to become a solid Backend & DevOps engineer. My favorite language is Java—it’s where I feel most comfortable building logic, designing systems, and solving real problems.<br><br>I’m driven by curiosity and the need to keep improving. I enjoy learning new technologies and understanding how everything connects behind the scenes. So far, I’ve worked with Python, SQL, Angular, Docker, and IoT systems, and I like combining them to create practical, real-world solutions.<br><br>I follow agile methodologies and genuinely enjoy working in teams—collaborating, sharing ideas, and building better solutions together is something I value a lot.<br><br>Outside of tech, I like to keep things balanced:<br><br>🎮 Playing video games<br>🎸 Playing guitar<br>🐶🐱 Spending time with my dogs and cat<br>🚀 Always building. Always learning.Getting closer every day.
 
 # 💻 Stack and Tools:
 <div align="center">
