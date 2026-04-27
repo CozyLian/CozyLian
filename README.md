@@ -6,7 +6,7 @@
 
 # 💻 Tech Stack:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java, cs, cpp, docker, flutter, ts" height="60" alt="java logo"/>
+  <img src="https://skillicons.dev/icons?i=java, cs, cpp, docker, flutter, ts"/>
 </div>
 
 ## 🌐 Socials:
