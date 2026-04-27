@@ -10,15 +10,23 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kali" height="60" alt="kali logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="powershell logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angular logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
 </div>
 
 ## 🌐 Socials:
