@@ -6,7 +6,19 @@
 
 # 💻 Tech Stack:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java, cs, cpp, docker, flutter, ts"/>
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kali" height="60" alt="kali logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="powershell logo"  />
 </div>
 
 ## 🌐 Socials:
