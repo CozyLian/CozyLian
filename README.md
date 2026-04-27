@@ -28,7 +28,7 @@
 
 # 🌐 You can contact me here!:
 <div align="center">
-  <a href="[https://skillicons.dev](https://www.linkedin.com/in/xiaolianli/)">
+  <a href="https://www.linkedin.com/in/xiaolianli/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="linkedin logo" />
   </a>
   <img width="12" />
