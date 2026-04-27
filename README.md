@@ -29,6 +29,8 @@ I'm Lian from Peru 🇵🇪, a developer in constant growth mode, aiming to beco
   <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
 </div>
 
 # 🌐 You can contact me here!:
